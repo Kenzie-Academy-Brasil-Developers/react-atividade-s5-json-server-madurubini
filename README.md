@@ -2,6 +2,9 @@
 
 Esse é o repositório contem uma API simples para estudo, contendo um pouco sobre Requests com o JSON-Server-Auth e o estudo de ENDPOINTS.
 
+##BASE URL
+Todas as requisições devem ser feitas através da baseURL: (https://techs-api-madurubini.herokuapp.com/)
+
 ## Endpoints
 
 Assim como a documentação do JSON-Server-Auth traz (https://www.npmjs.com/package/json-server-auth), existem 3 endpoints que podem ser utilizados para cadastro e 2 endpoints que podem ser usados para login. Foram adicionados mais 6 endpoints, totalizando 11. Sendo eles, 1 que pode ser utilizado para obter todos os usuários cadastrados. 3 para adicionar, deletar e exibir Bibliotecas react para o usuário e 2 para o usuário logado, adicionar e exibir suas Tecnologias.
